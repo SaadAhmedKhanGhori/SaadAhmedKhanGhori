@@ -1,6 +1,6 @@
 # Hi, I'm Saad Ahmed 👋
 
-**Mathematics & Computer Science @ Washington and Lee University** | I live at the intersection of mathematical rigor and high-scale systems engineering. My work focuses on making advanced AI architectures perform within production-grade infrastructure.
+**Mathematics & Computer Science @ Washington and Lee University** | I build at the intersection of mathematical rigor and high-performance engineering. My work focuses on developing efficient AI and infrastructure designed to solve complex, real-world problems.
 
 ---
 
