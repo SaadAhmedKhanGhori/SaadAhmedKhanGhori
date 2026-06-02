@@ -24,13 +24,13 @@
 ---
 
 ### 🛠️ Technical Arsenal
-* **Languages:** C/C++, Go, Python, Java, SQL, MATLAB
+* **Languages:** Python, Java, JavaScript, C/C++, Go, SQL, MATLAB
 * **Frameworks/Infrastructure:** Kubernetes, Docker, PyTorch, GitOps, CI/CD, AWS
 * **Specialties:** Distributed Systems, Real-time Systems, OS Kernels, PINNs
 
 ---
 
 ### 📬 Let's Connect
-* **Email:** [sakghori2003@gmail.com](mailto:sakghori2003@gmail.com)
+* **Email:** [sghori@mail.wlu.edu](mailto:sghori@mail.wlu.edu)
 * **LinkedIn:** https://www.linkedin.com/in/sakghori/
 
