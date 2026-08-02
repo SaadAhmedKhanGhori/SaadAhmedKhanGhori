@@ -16,7 +16,7 @@
 * **The Gist:** A mathematical expression compiler that uses recursive tree-refactoring for real-time procedural rendering.
 * **Key Achievement:** Enforced high engineering standards with 96% code coverage and custom root-finding algorithms.
 
-#### [Pokémon TCG Battle Engine](https://github.com/SaadAhmedKhanGhori/PokemonBattle)
+#### [Pokémon TCG Battle Game](https://github.com/SaadAhmedKhanGhori/PokemonBattle)
 * **The Tech:** Python, Pygame
 * **The Gist:** A strategic battle engine built around an elemental aura system and simultaneous move-locking logic.
 * **Key Achievement:** Engineered a complex state machine to resolve priority-based reactions (Vaporize, Shock) in real-time.
